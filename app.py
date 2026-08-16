@@ -325,7 +325,7 @@ if st.session_state.current_page == "account":
 
     if st.session_state.user is None:
         st.markdown(
-            '<p class="subtitle">Log in or sign up to access <b>Your 24-0</b>'
+            '<p class="subtitle">Log in or sign up to access your F1'
             ' career stats and save your season records.</p>',
             unsafe_allow_html=True,
         )
