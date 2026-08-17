@@ -19,7 +19,6 @@ An interactive Formula 1 management game built with Python and Streamlit. Draft 
 ├── drivers.json
 ├── requirements.txt
 └── src/
-    ├── __init__.py
     ├── data_loader.py
     ├── database.py
     ├── draft.py
